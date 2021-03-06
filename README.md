@@ -5,3 +5,5 @@ Material Design UI demo implementation using ReactJS.
 Clone it and run
 
 `npm start`
+
+![alt text](https://github.com/alicelebidev/react-material-design-ui-demo/blob/main/public/photo-album-demo-pic.png)
